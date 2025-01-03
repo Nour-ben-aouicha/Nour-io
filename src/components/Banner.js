@@ -15,7 +15,7 @@ export const Banner = () => {
   const [delta, setDelta] = useState(300 - Math.random() * 100);
   const [index, setIndex] = useState(1);
   const toRotate = [ "Data Science Graduate", "Motivated AI Engineer", "Data Analytics Enthusiast"];
-  const period = 2000;
+  const period = 1000;
   const scrollToSection = (sectionId) => {
     scroller.scrollTo(sectionId, {
       duration: 800,
