@@ -68,7 +68,7 @@ export const Banner = () => {
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">Welcome to my Portfolio</span>
                 <h1>{`Hi! I am Nour `} <span className="txt-rotate" dataPeriod="800" data-rotate='[ "Data Science Student", "Motivated AI Student", "Data Analytics Enthusiast" ]'><span className="wrap">{text}</span></span></h1>
-                <p>Dedicated Data Science student with a passion for leveraging data to drive insights and solutions. <br></br> <br></br>Currently looking for an End of Studies Internship. <br></br><br></br>Seeking to merge theoretical knowledge with practical experience and eager to connect with fellow enthusiasts, mentors, and professionals in the AI realm to explore new opportunities and exchange insights. <br></br><br></br>Let's connect and delve into the fascinating world of data together! </p>
+                <p>Dedicated Junior Data Scientist with a passion for leveraging data to drive insights and solutions. <br></br> <br></br>Currently looking for a kickstart opportunity in AI and data analysis domains. <br></br><br></br>Seeking to merge theoretical knowledge with practical experience and eager to connect with fellow enthusiasts, mentors, and professionals in the AI realm to explore new opportunities and exchange insights. <br></br><br></br>Let's connect and delve into the fascinating world of data together! </p>
                 {/* <ScrollLink to="connect" spy={true} smooth={true} duration={500} className="vvd"> */}
                 <button onClick={() => window.open('https://www.linkedin.com/in/nour-ben-aouicha-33031422b/', '_blank')}>Let’s Connect on LinkedIn <ArrowRightCircle size={25} /></button>
 
