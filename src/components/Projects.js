@@ -7,7 +7,7 @@ import projImg4 from "../assets/img/cc.avif";
 import projImg5 from "../assets/img/yy.avif";
 import projImg6 from "../assets/img/h.webp";
 import projImg7 from "../assets/img/rr.png";
-import projImg8 from "../assets/img/zzz.avif";
+import projImg8 from "../assets/img/emotion_detection.png";
 
 
 import colorSharp2 from "../assets/img/color-sharp2.png";
@@ -67,6 +67,12 @@ export const Projects = () => {
       description: "Models used: linear Regression",
       imgUrl: projImg7,
       link: "https://github.com/Nour-ben-aouicha/Raisin_Variety_Classification"
+    },
+    {
+      title: "Emotion Detection",
+      description: "Models used: CNN custom, VGG, ResNet",
+      imgUrl: projImg8,
+      link: "https://github.com/Nour-ben-aouicha/Emotion_Detection"
     },
   ];
 
