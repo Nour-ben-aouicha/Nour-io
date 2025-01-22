@@ -1,4 +1,4 @@
-import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
+oimport { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
 import projImg1 from "../assets/img/ethereum-cryptopedia-thumbnail.jpg";
 import projImg2 from "../assets/img/rm.jpg";
@@ -7,7 +7,7 @@ import projImg4 from "../assets/img/cc.avif";
 import projImg5 from "../assets/img/yy.avif";
 import projImg6 from "../assets/img/h.webp";
 import projImg7 from "../assets/img/rr.png";
-import projImg8 from "../assets/img/rr.png";
+import projImg8 from "../assets/img/emotion.jpg";
 
 
 import colorSharp2 from "../assets/img/color-sharp2.png";
