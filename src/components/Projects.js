@@ -1,4 +1,4 @@
-oimport { Container, Row, Col, Tab, Nav } from "react-bootstrap";
+import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
 import projImg1 from "../assets/img/ethereum-cryptopedia-thumbnail.jpg";
 import projImg2 from "../assets/img/rm.jpg";
